@@ -11,9 +11,10 @@ A specialized tool for visualizing deep family trees (10+ generations) with opti
 - **Dynamic Styling**: Color-coded by gender with marriage date annotations
 
 ## Installation 📦
-```bash
+```
+bash
 pip install matplotlib numpy ged4py
-
+```
 ## Requirements
 This script requires the following Python libraries:
 - `matplotlib`
